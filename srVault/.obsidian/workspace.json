@@ -1,28 +1,14 @@
 {
   "main": {
-    "id": "8bf9f959a41499be",
+    "id": "d6c5dd7b7b3c7522",
     "type": "split",
     "children": [
       {
-        "id": "7c17fd19557e0e26",
+        "id": "bef863ec96816401",
         "type": "tabs",
         "children": [
           {
-            "id": "e963ac288327e0d1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 - Tags/computational materiality.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "computational materiality"
-            }
-          },
-          {
-            "id": "832304f8bc782af7",
+            "id": "d4ce962b35aab822",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -36,35 +22,49 @@
             }
           },
           {
-            "id": "b8f11c1e30af2bbe",
+            "id": "1f15d624b4137c2b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Tags/schizophonia.md",
+                "file": "0 - Journal/20251231_Journal.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "schizophonia"
+              "title": "20251231_Journal"
+            }
+          },
+          {
+            "id": "529ee985432df901",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 - Journal/20260105_Journal.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "20260105_Journal"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "932d1b09fafad698",
+    "id": "8327f13ebc6b827d",
     "type": "split",
     "children": [
       {
-        "id": "811a57a4c18ae643",
+        "id": "ce676403910bfcfa",
         "type": "tabs",
         "children": [
           {
-            "id": "c0df2f684ae1ee8e",
+            "id": "39713bb12bce2d35",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -77,7 +77,7 @@
             }
           },
           {
-            "id": "85f43f165b1b7fb9",
+            "id": "eb80ac0f2107f5c5",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -94,7 +94,7 @@
             }
           },
           {
-            "id": "9f987f5b458129a8",
+            "id": "d79bd7f5b2fe316f",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -110,20 +110,20 @@
     "width": 300
   },
   "right": {
-    "id": "2c2200f2b814f38f",
+    "id": "e139c2f0c04ded98",
     "type": "split",
     "children": [
       {
-        "id": "8b085128318ad062",
+        "id": "b4e8cb642fb9bd68",
         "type": "tabs",
         "children": [
           {
-            "id": "db0b8bbd74944288",
+            "id": "f0b39678d0d2d2ea",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0 - Journal/20251230_Journal.md",
+                "file": "20251231_Journal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,25 +133,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 20251230_Journal"
+              "title": "Backlinks for 20251231_Journal"
             }
           },
           {
-            "id": "3f8ab5b554311943",
+            "id": "1caf1253c57dfa28",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0 - Journal/20251230_Journal.md",
+                "file": "20251231_Journal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 20251230_Journal"
+              "title": "Outgoing links from 20251231_Journal"
             }
           },
           {
-            "id": "689f113acb3d65df",
+            "id": "89b3a3e517af5bac",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -166,7 +166,7 @@
             }
           },
           {
-            "id": "ad49b0ee81fe478f",
+            "id": "42f4dc5320b26d1b",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -180,18 +180,18 @@
             }
           },
           {
-            "id": "a57aeebe765e8580",
+            "id": "4c243369383b9fce",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "0 - Journal/20251230_Journal.md",
+                "file": "20251231_Journal.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 20251230_Journal"
+              "title": "Outline of 20251231_Journal"
             }
           }
         ]
@@ -212,25 +212,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "832304f8bc782af7",
+  "active": "39713bb12bce2d35",
   "lastOpenFiles": [
-    "3 - Tags/computational composite.md",
-    "3 - Tags/unified-time structuring.md",
-    "3 - Tags/translation.md",
-    "3 - Tags/transducer.md",
-    "3 - Tags/schizophonia.md",
-    "3 - Tags/resonance.md",
-    "3 - Tags/computational materiality.md",
-    "0 - Journal/20251230_Journal.md",
-    "2 - Sources/rendallTranslatorsTaskWalter1997.md",
-    "3.md",
-    "6 - Main Notes",
-    "5 - Templates",
-    "4 - Indexes",
-    "3 - Tags",
-    "2 - Sources",
-    "1 - Rough Notes",
-    "Welcome.md",
-    "0 - Journal"
+    "0 - Journal/20251231_Journal.md",
+    "0 - Journal/20260105_Journal.md",
+    "0 - Journal/20251230_Journal.md"
   ]
 }
