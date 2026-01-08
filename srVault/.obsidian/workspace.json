@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 - Journal/20260105_Journal.md",
+                "file": "0 - Journal/20260108_journal.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "20260105_Journal"
+              "title": "20260108_journal"
             }
           }
         ],
@@ -212,10 +212,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "39713bb12bce2d35",
+  "active": "529ee985432df901",
   "lastOpenFiles": [
-    "0 - Journal/20251231_Journal.md",
+    "0 - Journal/20260106_Journal.md",
     "0 - Journal/20260105_Journal.md",
-    "0 - Journal/20251230_Journal.md"
+    "0 - Journal/20251231_Journal.md",
+    "0 - Journal/20251230_Journal.md",
+    "0 - Journal/20260108_journal.md",
+    "7 - Assets/Pasted image 20260108110302.jpg",
+    "7 - Assets"
   ]
 }
