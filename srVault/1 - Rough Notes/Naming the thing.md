@@ -1,7 +1,8 @@
 # Possible Names
-- tecksatrone
+- tecksatron
 - tecksaphone
 - smendrophone
+- TexCo Duhickey (as brand)
 - 
 # Other people's names
 ## animals

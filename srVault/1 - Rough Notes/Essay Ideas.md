@@ -2,4 +2,4 @@
 [[The male urge to maintain filters]]
 [[The four criteria of electronic music as design criteria]]
 [[The transducer's task]]
-[[Grade inflation and the millennial lifestyle s]]
+[[Grade inflation and the millennial lifestyle subsidy]]

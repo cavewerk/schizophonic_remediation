@@ -67,12 +67,14 @@
             "id": "1c4e16681896e865",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.11.4"
+                "file": "0 - Journal/20260124_journal.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.4"
+              "icon": "lucide-file",
+              "title": "20260124_journal"
             }
           }
         ],
@@ -133,7 +135,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "e139c2f0c04ded98",
@@ -238,19 +240,29 @@
       "bases:Create new base": false
     }
   },
-  "active": "39713bb12bce2d35",
+  "active": "1c4e16681896e865",
   "lastOpenFiles": [
-    "Untitled.canvas",
-    "1 - Rough Notes/Naming the thing 1.md",
-    "1 - Rough Notes/Naming the thing.md",
-    "1 - Rough Notes/Essay Ideas.md",
+    "0 - Journal/20260122_journal.md",
+    "0 - Journal/20260124_journal.md",
+    "0 - Journal/20260117_journal.md",
     "0 - Journal/20260111_journal.md",
-    "0 - Journal/20251231_Journal.md",
-    "0 - Journal/20251230_Journal.md",
-    "0 - Journal/20260105_Journal.md",
-    "0 - Journal/20260106_Journal.md",
-    "0 - Journal/20260108_journal.md",
     "0 - Journal/20260109_journal.md",
+    "0 - Journal/20260108_journal.md",
+    "0 - Journal/20260106_journal.md",
+    "0 - Journal/20260105_journal.md",
+    "0 - Journal/20251231_journal.md",
+    "0 - Journal/20251230_journal.md",
+    "3 - Tags/unified-time structuring.md",
+    "3 - Tags/translation.md",
+    "3 - Tags/transducer.md",
+    "3 - Tags/schizophonia.md",
+    "3 - Tags/resonance.md",
+    "3 - Tags/computational materiality.md",
+    "3 - Tags/computational composite.md",
+    "1 - Rough Notes/Naming the thing.md",
+    "1 - Rough Notes/Naming the thing 1.md",
+    "Untitled.canvas",
+    "1 - Rough Notes/Essay Ideas.md",
     "8 - Tasks/Tasks.md",
     "8 - Tasks",
     "7 - Assets/Pasted image 20260108110302.jpg",
