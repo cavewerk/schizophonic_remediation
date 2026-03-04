@@ -10,10 +10,23 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 665.0, 194.0, 527.0, 739.0 ],
+		"rect" : [ 665.0, 183.0, 527.0, 739.0 ],
 		"gridsize" : [ 15.0, 15.0 ],
 		"subpatcher_template" : "Cardinal",
 		"boxes" : [ 			{
+				"box" : 				{
+					"comment" : "",
+					"id" : "obj-11",
+					"index" : 6,
+					"maxclass" : "inlet",
+					"numinlets" : 0,
+					"numoutlets" : 1,
+					"outlettype" : [ "" ],
+					"patching_rect" : [ 441.0, 89.0, 30.0, 30.0 ]
+				}
+
+			}
+, 			{
 				"box" : 				{
 					"id" : "obj-10",
 					"maxclass" : "newobj",
