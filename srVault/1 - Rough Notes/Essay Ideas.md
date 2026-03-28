@@ -1,5 +1,5 @@
 [[Function resides in the expression of things]]
 [[The male urge to maintain filters]]
 [[The four criteria of electronic music as design criteria]]
-[[The transducer's task]]
+[[20260316_journal]]
 [[Grade inflation and the millennial lifestyle subsidy]]
