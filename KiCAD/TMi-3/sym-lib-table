@@ -1,0 +1,6 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "NMJ4HFD3") (type "KiCad") (uri "/Users/austintecks/Downloads/LIB_NMJ4HFD3/NMJ4HFD3/KiCad/NMJ4HFD3.kicad_sym") (options "") (descr ""))
+	(lib (name "SJ3-350820B") (type "KiCad") (uri "/Users/austintecks/Downloads/LIB_SJ3-350820B-TR/SJ3-350820B-TR/KiCad") (options "") (descr ""))
+	(lib (name "MJ-3536NG") (type "KiCad") (uri "${KIPRJMOD}/ProjectSymbols/MJ-3536NG/KiCad/MJ-3536NG.kicad_sym") (options "") (descr ""))
+)

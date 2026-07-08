@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MJ-3536NG
+D 3.5 mm, Mono, Right Angle, Through Hole, Isolated Ground, 2 Conductors, 1 Internal Switch, Audio Jack Connector
+K
+F https://www.sameskydevices.com/product/resource/mj-3536ng.pdf
+$ENDCMP
+#
+#End Doc Library

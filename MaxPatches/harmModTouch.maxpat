@@ -15,6 +15,22 @@
 		"subpatcher_template" : "Cardinal",
 		"boxes" : [ 			{
 				"box" : 				{
+					"fontface" : 0,
+					"fontname" : "Arial",
+					"fontsize" : 12.0,
+					"id" : "obj-11",
+					"maxclass" : "number~",
+					"mode" : 2,
+					"numinlets" : 2,
+					"numoutlets" : 2,
+					"outlettype" : [ "signal", "float" ],
+					"patching_rect" : [ 96.0, 397.0, 56.0, 22.0 ],
+					"sig" : 0.0
+				}
+
+			}
+, 			{
+				"box" : 				{
 					"id" : "obj-30",
 					"maxclass" : "message",
 					"numinlets" : 2,
@@ -399,6 +415,13 @@
 			}
 , 			{
 				"patchline" : 				{
+					"destination" : [ "obj-3", 0 ],
+					"source" : [ "obj-11", 1 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
 					"destination" : [ "obj-17", 1 ],
 					"midpoints" : [ 395.5, 462.0, 108.0, 462.0, 108.0, 453.0, 99.0, 453.0 ],
 					"source" : [ "obj-12", 0 ]
@@ -551,7 +574,7 @@
 			}
 , 			{
 				"patchline" : 				{
-					"destination" : [ "obj-3", 0 ],
+					"destination" : [ "obj-11", 0 ],
 					"order" : 0,
 					"source" : [ "obj-38", 0 ]
 				}
