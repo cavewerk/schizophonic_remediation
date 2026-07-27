@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20260706_journal.md",
+                "file": "6 - Main Notes/Every feature comes at a cost except those that are for free.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "20260706_journal"
+              "title": "Every feature comes at a cost except those that are for free"
             }
           }
         ],
@@ -198,10 +198,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "bd689aa122e2d59e",
+  "active": "39713bb12bce2d35",
   "lastOpenFiles": [
+    "0 - Journal/20260724_journal.md",
+    "0 - Journal/20260706_journal.md",
+    "6 - Main Notes/Every feature comes at a cost except those that are for free.md",
+    "0 - Journal/20260726_journal.md",
+    "0 - Journal/20260723_journal.md",
     "0 - Journal/20260506_journal.md",
-    "20260706_journal.md",
     "0 - Journal/20260413_journal.md",
     "0 - Journal/20260316_journal.md",
     "1 - Rough Notes/Tech Notes.md",
@@ -223,10 +227,6 @@
     "7 - Assets/Pasted image 20260108110302.jpg",
     "8 - Tasks/Tasks.md",
     "3 - Tags/translation.md",
-    "3 - Tags/legibility.md",
-    "3 - Tags/unified-time structuring.md",
-    "3 - Tags/transducer.md",
-    "3 - Tags/schizophonia.md",
     "Untitled.canvas",
     "8 - Tasks",
     "7 - Assets"

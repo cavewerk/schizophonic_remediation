@@ -1,0 +1,1 @@
+A steel frame supports magnetic coupling. A balanced signal carries the original and its mirror image.
